@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.22)  14 AUG 2024 08:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.22)  14 AUG 2024 09:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -537,18 +537,8 @@ Underfull \hbox (badness 6428) in paragraph at lines 99--99
  []
 
 
-Underfull \hbox (badness 7814) in paragraph at lines 99--99
-\T1/cmr/m/n/10.95 be-lla Ace-ve-do pier-de
- []
-
-
-Underfull \hbox (badness 7907) in paragraph at lines 99--99
-\T1/cmr/m/n/10.95 tri-go-no-me-tría, Lo-rieth
- []
-
-
-Underfull \hbox (badness 1048) in paragraph at lines 99--99
-\T1/cmr/m/n/10.95 Cha-va-rro pier-de tri-go-
+Underfull \hbox (badness 4792) in paragraph at lines 99--99
+[]\T1/cmr/m/n/10.95 El es-tu-dian-te Sa-muel
  []
 
 
@@ -612,11 +602,6 @@ Underfull \hbox (badness 1275) in paragraph at lines 118--118
 
 Underfull \hbox (badness 1817) in paragraph at lines 120--121
 []|\T1/cmr/m/n/10.95 La es-tu-dian-te pier-
- []
-
-
-Underfull \hbox (badness 3449) in paragraph at lines 120--121
-\T1/cmr/m/n/10.95 ños de Ac-ti-tu-di-nal
  []
 
 
@@ -695,16 +680,6 @@ Underfull \hbox (badness 1817) in paragraph at lines 134--135
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 134--135
-\T1/cmr/m/n/10.95 Pa-dres, 1 de-sem-pe-
- []
-
-
-Underfull \hbox (badness 1565) in paragraph at lines 134--135
-\T1/cmr/m/n/10.95 ños de Quí-mi-ca, 2
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 137--137
 []|\T1/cmr/m/n/10.95 Seguimiento con-
  []
@@ -752,16 +727,6 @@ Underfull \hbox (badness 2253) in paragraph at lines 139--140
 
 Underfull \hbox (badness 2753) in paragraph at lines 139--140
 \T1/cmr/m/n/10.95 del co-le-gio, fo-men-
- []
-
-
-Underfull \hbox (badness 2181) in paragraph at lines 148--148
-[]|\T1/cmr/m/n/10.95 El es-tu-dian-te tie-ne
- []
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 148--148
-\T1/cmr/m/n/10.95 con pér-di-da: 2 de-
  []
 
 
@@ -827,21 +792,6 @@ Underfull \hbox (badness 7099) in paragraph at lines 159--159
 
 Underfull \hbox (badness 10000) in paragraph at lines 159--159
 \T1/cmr/m/n/10.95 de aten-ción por
- []
-
-
-Underfull \hbox (badness 2181) in paragraph at lines 161--161
-[]|\T1/cmr/m/n/10.95 El es-tu-dian-te tie-ne
- []
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 161--161
-\T1/cmr/m/n/10.95 con pér-di-da: 1 de-
- []
-
-
-Underfull \hbox (badness 1701) in paragraph at lines 161--161
-\T1/cmr/m/n/10.95 1 de-sem-pe-ño Ar-tes
  []
 
 
@@ -2308,14 +2258,14 @@ Package rerunfilecheck Info: File `comision.out' has not changed.
 Here is how much of TeX's memory you used:
  12908 strings out of 474222
  197670 string characters out of 5748733
- 2039975 words of memory out of 5000000
+ 2038975 words of memory out of 5000000
  34997 multiletter control sequences out of 15000+600000
  564269 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,13n,79p,545b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on comision.pdf (9 pages, 155835 bytes).
+Output written on comision.pdf (9 pages, 155482 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
